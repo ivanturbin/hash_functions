@@ -13,7 +13,7 @@ Python 3.6 или новее
 илиpython3 --version
 
 
-Скачайте файл hash_function.py в директорию вашего проекта (например, C:\Users\Пин Код\Documents\GitHub\hash_functions).
+Скачайте файл hash_function.py в директорию вашего проекта
 
 Запуск
 
