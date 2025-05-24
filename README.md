@@ -18,8 +18,6 @@ Python 3.6 или новее
 Запуск
 
 Откройте терминал и перейдите в директорию с файлом hash_function.py:
-cd C:\Users\Пин Код\Documents\GitHub\hash_functions
-
 
 Создайте тестовый скрипт, например, test_hash.py, со следующим содержимым:
 from hash_function import hash_function
